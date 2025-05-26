@@ -1,0 +1,40 @@
+h1 {
+      color: darkorange;
+      font-family: 'Solvent';
+      font-size: 52px;
+      font-weight: 800;
+      text-align: center;
+    }
+    p {
+      color: skyblue;
+      font-family: 'Apparat';
+      font-size: 24PX;
+      font-weight: medium;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    img {
+      width: 350px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+      height: 100%;
+      }
+
+    figcaption {
+      color: grey;
+      font-family: 'Apparat';
+      font-size: 14PX;
+      font-weight: regular;
+      margin-block: 10px;
+      margin-left: 20px
+    }
+      a {
+        color: deeppink;
+        font-size: 18px;
+        font-family: 'Apparat'
+        }
+.flex {
+  display: flex;
+}
